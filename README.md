@@ -1,6 +1,6 @@
-### 👋 Hi , I'm Tom also known as Amnestic.
+## 👋 Hi , I'm Tom also known as Amnestic.
 
-## I'm a student, developer, and artist!
+### I'm a student, developer, and artist!
 
 - ✨ Projects I'm working on:  [Where Is My File](https://github.com/Amnestic/WhereIsMyFile)
 - 🌱 I’m currently learning PHP and VueJS

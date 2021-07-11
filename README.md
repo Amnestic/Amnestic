@@ -7,7 +7,7 @@
 - 🔨 I'm a freelance developer 
 - ⚡ Fun fact: I love to photograph and make music. [EDM]<br />
 
-### Looking for hire
+### Looking for Job
 
 Currently making websites and discord bots for payment. DM me on discord to discuss.<br />
 <!--/Or contact me on [Fiverr]()--> 

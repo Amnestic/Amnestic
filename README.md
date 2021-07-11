@@ -16,3 +16,8 @@
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
 <img align="left" alt="Figma" width="26px" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png"/> <br />
+
+### Jobs
+
+Currently making websites and discord bots for payment. DM me on discord to discuss.<br />
+<!--/Or contact me on [Fiverr]()--> 

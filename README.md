@@ -1,6 +1,6 @@
 ### 👋 Hi , I'm Tom also known as Amnestic.
 
-## I'm a student, developer, artist!
+## I'm a student, developer, and artist!
 
 - 🔭 
 - 🌱 I’m currently learning PHP and VueJS

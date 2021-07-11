@@ -20,6 +20,9 @@ Currently making websites and discord bots for payment. DM me on discord to disc
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="JS" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" 
-<img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png"
+<img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png"<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amnestic)](https://github.com/anuraghazra/github-readme-stats)
+
 
 

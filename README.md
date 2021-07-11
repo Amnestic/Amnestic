@@ -24,5 +24,5 @@ Currently making websites and discord bots for payment. DM me on discord to disc
 
 ---
 
-<img align="left" alt="Amnestic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amnestic&show_icons=true&theme=tokyonight)" />
+<img align="left" alt="Amnestic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amnestic&show_icons=true&theme=dark)" />
 

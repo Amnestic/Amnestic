@@ -21,5 +21,5 @@ Currently making websites and discord bots for payment. DM me on discord to disc
 <img align="left" alt="JS" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" 
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png"
-<img align="left" alt="BOOTSTRAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"/> <br />
+
 

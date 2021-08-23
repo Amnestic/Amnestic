@@ -4,8 +4,9 @@
 
 <h3 align='center'>
     Hi, i'm <a href="https://github.com/Amnestic">Tom</a> 👋
-
-
-## I'm a Front-End Web Developer, Student and Artist!
 </h3>
+
+<HTML align='center'>
+## I'm a Front-End Web Developer, Student and Artist!
+<HTML>
 

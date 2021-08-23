@@ -12,6 +12,6 @@
 </h1>
 I love to take challenges and improve myself on every issue i will face. I love to design every single bit to make the project perfect. I love to help people and meet with new ones.
 
-### Connect with me
+### 👉 Connect with me
 <a href="https://twitter.com/AmnesticR"><img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/png/512/733/733579.png"/></a>
 <a href="https://www.instagram.com/_tom.was.here_/"><img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a>

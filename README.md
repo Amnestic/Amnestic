@@ -29,3 +29,4 @@ I love to take challenges and improve myself on every issue i will face. I love 
 - PHP
 - Styled Components 
 - MySQL
+- Everything 😁

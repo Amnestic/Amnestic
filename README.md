@@ -54,3 +54,11 @@ I love to take challenges and improve myself on every issue i will face. I love 
 ## 👜 Looking for Hire
 Currently making websites and discord bots for payment. DM me on discord to discuss.<br />
 <!--/Or contact me on [Fiverr]()--> 
+
+## 📈 My GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnestic&show_icons=true&locale=en&layout=compact" alt="amnestic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnestic&show_icons=true&locale=en" alt="amnestic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnestic&" alt="amnestic" /></p>

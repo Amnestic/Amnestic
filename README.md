@@ -3,7 +3,7 @@
 </p>
 
 <h3 align='center'>
-    Hi
+    Hi, i'm [Tom](https://github.com/Amnestic)
 </h3>
 
 

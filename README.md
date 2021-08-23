@@ -7,6 +7,3 @@
 </h3>
 
 ## I'm a Front-End Web Developer, Student and Artist!
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| ## I'm a Front-End Web Developer, Student and Artist! | <!-- cell gets column's alignment -->

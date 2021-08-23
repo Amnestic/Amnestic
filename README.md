@@ -9,6 +9,5 @@
 
 <h1 align='center'>
  I'm a Front-End Web Developer, Student and Artist!
-</h1>
-<br>
+</h1><br>
 I love to take challenges and improve myself on every issue i will face. I love to design every single bit to make the project perfect. I love to help people and meet with new ones.

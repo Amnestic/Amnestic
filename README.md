@@ -23,7 +23,7 @@ I love to take challenges and improve myself on every issue i will face. I love 
 - MCTWORK | React
 - My other custom projects
 
-## 👨‍🎓 I'm currently learning
+## 👨‍🎓 I'm Currently learning
 
 - React
 - PHP

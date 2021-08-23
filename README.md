@@ -6,4 +6,4 @@
     Hi, i'm <a href="https://github.com/Amnestic">Tom</a> 👋
 </h3>
 
-<center>## I'm a Front-End Web Developer, Student and Artist!</center>
+## I'm a Front-End Web Developer, Student and Artist!

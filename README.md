@@ -6,7 +6,4 @@
     Hi, i'm <a href="https://github.com/Amnestic">Tom</a> 👋
 </h3>
 
-<HTML align='center'>
-## I'm a Front-End Web Developer, Student and Artist!
-<HTML>
-
+<center>## I'm a Front-End Web Developer, Student and Artist!</center>

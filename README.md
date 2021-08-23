@@ -32,3 +32,4 @@ I love to take challenges and improve myself on every issue i will face. I love 
 - Everything 😁
 
 ## ✨Skills
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

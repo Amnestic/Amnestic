@@ -22,3 +22,10 @@ I love to take challenges and improve myself on every issue i will face. I love 
 - [Where Is My File](https://github.com/Amnestic/WhereIsMyFile), [Zepo-Bot](https://github.com/Amnestic/Zepo)
 - MCTWORK | React
 - My other custom projects
+
+## 👨‍🎓 I'm currently learning
+
+- React
+- PHP
+- Styled Components 
+- MySQL

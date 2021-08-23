@@ -52,3 +52,5 @@ I love to take challenges and improve myself on every issue i will face. I love 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
 
 ## 👜 Looking for Hire
+Currently making websites and discord bots for payment. DM me on discord to discuss.<br />
+<!--/Or contact me on [Fiverr]()--> 

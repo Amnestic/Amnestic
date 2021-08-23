@@ -57,7 +57,8 @@ Currently making websites and discord bots for payment. DM me on discord to disc
 
 ## 📈 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnestic&show_icons=true&locale=en&layout=compact" alt="amnestic" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amnestic)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnestic&show_icons=true&locale=en" alt="amnestic" /></p>
 

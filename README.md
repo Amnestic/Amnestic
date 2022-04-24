@@ -14,7 +14,7 @@ I love to take on challenges and improve myself on every issue I will face. I lo
 
 ### 👉 Connect with me
 <a href="https://twitter.com/AmnesticR"><img align="left" alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"/></a>
-<a href="https://www.instagram.com/_tom.was.here_/"><img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/></a><br>
+<a href="https://www.instagram.com/_tom.was.here_/"><img align="left" alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a><br>
 - 💭 Have any questions? Feel free to contact me at any time!
 
 ## 🔨 I'm Currently working on

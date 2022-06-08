@@ -50,8 +50,8 @@ I love to take on challenges and improve myself on every issue I will face. I lo
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
 
-## 👜 Looking for Hire
-Currently making websites and discord bots for payment. DM me on discord to discuss.<br />
+<!-- ## 👜 Looking for Hire -->
+<!--Currently making websites and discord bots for payment. DM me on discord to discuss.<br /> -->
 <!--/Or contact me on [Fiverr]()--> 
 
 ## 📈 My GitHub Stats

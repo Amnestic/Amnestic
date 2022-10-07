@@ -18,8 +18,6 @@ I love to take on challenges and improve myself on every issue I will face. I lo
 - 💭 Have any questions? Feel free to contact me at any time!
 
 ## 🔨 I'm Currently working on
-
-- Website for [Lavity Esports](https://www.instagram.com/lavity.esports/)
 - My other custom projects
 
 ## 👨‍🎓 I'm Currently learning

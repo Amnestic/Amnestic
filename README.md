@@ -17,16 +17,12 @@ I love to take on challenges and improve myself on every issue I will face. I lo
 <a href="https://www.instagram.com/_tom.was.here_/"><img align="left" alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a><br>
 - 💭 Have any questions? Feel free to contact me at any time!
 
-## 🔨 I'm Currently working on
-- My other custom projects
+## 👜Experiences
+### Currently open for new opportunities!
+2023 - Current: [Matomio](https://matomio.art) [Web Design, Web Programming & Management, Project Co-founder]<br>
+2022 - Current: [Lavity](https://discord.gg/eRawNfGuJ8) [Project Co-founder, Discord Bot Programming]<br>
+2021 - 2022: Focus Energy Drink [Web Programming & Management] (<b>This project seems to no longer be active</b>)<br>
 
-## 👨‍🎓 I'm Currently learning
-
-- React
-- PHP
-- Styled Components 
-- MySQL
-- Everything 😁
 
 ## ✨Skills
 

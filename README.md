@@ -48,11 +48,12 @@ I love to take on challenges and improve myself on every issue I will face. I lo
 <!--Currently making websites and discord bots for payment. DM me on discord to discuss.<br /> -->
 <!--/Or contact me on [Fiverr]()--> 
 
-## 📈 My GitHub Stats
+<!--## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amnestic)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnestic&show_icons=true&locale=en" alt="amnestic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnestic&" alt="amnestic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnestic&" alt="amnestic" /></p> -->
+
